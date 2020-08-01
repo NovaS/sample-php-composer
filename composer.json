@@ -1,6 +1,7 @@
 {
 	"name" : "psaux/sample-php-composer",
 	"type" : "project",
+	"description" : "Sample for a php project using Composer",
 	"authors" : [{
 			"name" : "NovaS",
 			"email" : "nova.saputra@gmail.com"
